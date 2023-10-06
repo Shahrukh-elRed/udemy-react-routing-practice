@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Another new event","image":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/firebase1200-1024x512.jpg","date":"2023-10-11","description":"Desc!!","id":"65bcb82f-fe4c-416d-907d-08c7baa65ddd"},{"title":"Event","image":"https://www.mindinventory.com/blog/wp-content/uploads/2022/10/firebase1200-1024x512.jpg","date":"2023-10-06","description":"Firebase is a ljelwjqfewf","id":"beb31f46-5a5e-4b5c-9e0d-265288eb9e26"}]}
